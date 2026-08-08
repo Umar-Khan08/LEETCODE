@@ -3,7 +3,7 @@ class Solution {
         int c=0;
         while(n>1)
         {
-            if(n%2==1) c++;
+             c+=n & 1;
             n/=2;
         } if(n==1) c++;
         return c;
