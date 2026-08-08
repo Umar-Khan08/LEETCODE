@@ -4,7 +4,7 @@ class Solution {
         while(n>1)
         {
              c+=n & 1;
-            n/=2;
+            n=n>>1;
         } if(n==1) c++;
         return c;
     }
