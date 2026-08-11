@@ -8,6 +8,7 @@ This repository stores all my leetcode problems solved.
 | ------- |
 | [0001-two-sum](https://github.com/Umar-Khan08/LEETCODE/tree/master/0001-two-sum) |
 | [0137-single-number-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/0137-single-number-ii) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1920-build-array-from-permutation](https://github.com/Umar-Khan08/LEETCODE/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
@@ -27,4 +28,8 @@ This repository stores all my leetcode problems solved.
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Umar-Khan08/LEETCODE/tree/master/1920-build-array-from-permutation) |
+## Binary Search
+|  |
+| ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
