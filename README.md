@@ -21,6 +21,7 @@ This repository stores all my leetcode problems solved.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Umar-Khan08/LEETCODE/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Umar-Khan08/LEETCODE/tree/master/0191-number-of-1-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Umar-Khan08/LEETCODE/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -37,4 +38,8 @@ This repository stores all my leetcode problems solved.
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Umar-Khan08/LEETCODE/tree/master/0278-first-bad-version) |
+## Math
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Umar-Khan08/LEETCODE/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
