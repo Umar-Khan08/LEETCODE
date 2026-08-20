@@ -7,6 +7,7 @@ This repository stores all my leetcode problems solved.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Umar-Khan08/LEETCODE/tree/master/0001-two-sum) |
+| [0055-jump-game](https://github.com/Umar-Khan08/LEETCODE/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Umar-Khan08/LEETCODE/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/0137-single-number-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -61,6 +62,7 @@ This repository stores all my leetcode problems solved.
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Umar-Khan08/LEETCODE/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Umar-Khan08/LEETCODE/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Umar-Khan08/LEETCODE/tree/master/0860-lemonade-change) |
 ## Sorting
@@ -71,4 +73,8 @@ This repository stores all my leetcode problems solved.
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Umar-Khan08/LEETCODE/tree/master/0455-assign-cookies) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Umar-Khan08/LEETCODE/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
