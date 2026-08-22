@@ -52,6 +52,7 @@ This repository stores all my leetcode problems solved.
 | [0029-divide-two-integers](https://github.com/Umar-Khan08/LEETCODE/tree/master/0029-divide-two-integers) |
 | [0441-arranging-coins](https://github.com/Umar-Khan08/LEETCODE/tree/master/0441-arranging-coins) |
 | [1486-xor-operation-in-an-array](https://github.com/Umar-Khan08/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Umar-Khan08/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Backtracking
 |  |
 | ------- |
