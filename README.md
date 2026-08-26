@@ -8,6 +8,7 @@ This repository stores all my leetcode problems solved.
 | ------- |
 | [0001-two-sum](https://github.com/Umar-Khan08/LEETCODE/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/Umar-Khan08/LEETCODE/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/Umar-Khan08/LEETCODE/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/Umar-Khan08/LEETCODE/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Umar-Khan08/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0137-single-number-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/0137-single-number-ii) |
