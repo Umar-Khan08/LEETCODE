@@ -15,6 +15,7 @@ This repository stores all my leetcode problems solved.
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0455-assign-cookies](https://github.com/Umar-Khan08/LEETCODE/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Umar-Khan08/LEETCODE/tree/master/0860-lemonade-change) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Umar-Khan08/LEETCODE/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Umar-Khan08/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1920-build-array-from-permutation](https://github.com/Umar-Khan08/LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Umar-Khan08/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -99,4 +100,8 @@ This repository stores all my leetcode problems solved.
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Umar-Khan08/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Umar-Khan08/LEETCODE/tree/master/1380-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
