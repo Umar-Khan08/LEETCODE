@@ -11,6 +11,7 @@ This repository stores all my leetcode problems solved.
 | [0057-insert-interval](https://github.com/Umar-Khan08/LEETCODE/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/Umar-Khan08/LEETCODE/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Umar-Khan08/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0135-candy](https://github.com/Umar-Khan08/LEETCODE/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/0137-single-number-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0455-assign-cookies](https://github.com/Umar-Khan08/LEETCODE/tree/master/0455-assign-cookies) |
@@ -73,6 +74,7 @@ This repository stores all my leetcode problems solved.
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Umar-Khan08/LEETCODE/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/Umar-Khan08/LEETCODE/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/Umar-Khan08/LEETCODE/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Umar-Khan08/LEETCODE/tree/master/0860-lemonade-change) |
