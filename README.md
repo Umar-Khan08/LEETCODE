@@ -16,6 +16,7 @@ This repository stores all my leetcode problems solved.
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0455-assign-cookies](https://github.com/Umar-Khan08/LEETCODE/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Umar-Khan08/LEETCODE/tree/master/0860-lemonade-change) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Umar-Khan08/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Umar-Khan08/LEETCODE/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Umar-Khan08/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1920-build-array-from-permutation](https://github.com/Umar-Khan08/LEETCODE/tree/master/1920-build-array-from-permutation) |
@@ -24,6 +25,7 @@ This repository stores all my leetcode problems solved.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Umar-Khan08/LEETCODE/tree/master/0001-two-sum) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Umar-Khan08/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Umar-Khan08/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Umar-Khan08/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
@@ -83,6 +85,7 @@ This repository stores all my leetcode problems solved.
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Umar-Khan08/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/Umar-Khan08/LEETCODE/tree/master/0455-assign-cookies) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Umar-Khan08/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -120,4 +123,8 @@ This repository stores all my leetcode problems solved.
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Umar-Khan08/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
