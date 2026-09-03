@@ -40,6 +40,7 @@ This repository stores all my leetcode problems solved.
 | [0078-subsets](https://github.com/Umar-Khan08/LEETCODE/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Umar-Khan08/LEETCODE/tree/master/0191-number-of-1-bits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Umar-Khan08/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Umar-Khan08/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Umar-Khan08/LEETCODE/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Simulation
@@ -63,6 +64,7 @@ This repository stores all my leetcode problems solved.
 | [0029-divide-two-integers](https://github.com/Umar-Khan08/LEETCODE/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Umar-Khan08/LEETCODE/tree/master/0066-plus-one) |
 | [0441-arranging-coins](https://github.com/Umar-Khan08/LEETCODE/tree/master/0441-arranging-coins) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Umar-Khan08/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Umar-Khan08/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Umar-Khan08/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Backtracking
