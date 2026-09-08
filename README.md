@@ -116,6 +116,7 @@ This repository stores all my leetcode problems solved.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Umar-Khan08/LEETCODE/tree/master/0002-add-two-numbers) |
+| [0725-split-linked-list-in-parts](https://github.com/Umar-Khan08/LEETCODE/tree/master/0725-split-linked-list-in-parts) |
 ## Recursion
 |  |
 | ------- |
