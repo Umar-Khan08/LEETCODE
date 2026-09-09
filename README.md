@@ -25,6 +25,7 @@ This repository stores all my leetcode problems solved.
 | [1394-find-lucky-integer-in-an-array](https://github.com/Umar-Khan08/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1920-build-array-from-permutation](https://github.com/Umar-Khan08/LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Umar-Khan08/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Umar-Khan08/LEETCODE/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Umar-Khan08/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -80,6 +81,7 @@ This repository stores all my leetcode problems solved.
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Umar-Khan08/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Umar-Khan08/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [1492-the-kth-factor-of-n](https://github.com/Umar-Khan08/LEETCODE/tree/master/1492-the-kth-factor-of-n) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Umar-Khan08/LEETCODE/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Umar-Khan08/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Umar-Khan08/LEETCODE/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/3871-count-commas-in-range-ii) |
