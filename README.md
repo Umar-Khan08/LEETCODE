@@ -81,6 +81,7 @@ This repository stores all my leetcode problems solved.
 | [1492-the-kth-factor-of-n](https://github.com/Umar-Khan08/LEETCODE/tree/master/1492-the-kth-factor-of-n) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Umar-Khan08/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Umar-Khan08/LEETCODE/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/3871-count-commas-in-range-ii) |
 ## Backtracking
 |  |
 | ------- |
