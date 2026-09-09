@@ -93,6 +93,7 @@ This repository stores all my leetcode problems solved.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Umar-Khan08/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0143-reorder-list](https://github.com/Umar-Khan08/LEETCODE/tree/master/0143-reorder-list) |
 | [0455-assign-cookies](https://github.com/Umar-Khan08/LEETCODE/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
@@ -122,12 +123,14 @@ This repository stores all my leetcode problems solved.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Umar-Khan08/LEETCODE/tree/master/0002-add-two-numbers) |
+| [0143-reorder-list](https://github.com/Umar-Khan08/LEETCODE/tree/master/0143-reorder-list) |
 | [0382-linked-list-random-node](https://github.com/Umar-Khan08/LEETCODE/tree/master/0382-linked-list-random-node) |
 | [0725-split-linked-list-in-parts](https://github.com/Umar-Khan08/LEETCODE/tree/master/0725-split-linked-list-in-parts) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Umar-Khan08/LEETCODE/tree/master/0002-add-two-numbers) |
+| [0143-reorder-list](https://github.com/Umar-Khan08/LEETCODE/tree/master/0143-reorder-list) |
 ## Counting
 |  |
 | ------- |
@@ -148,6 +151,7 @@ This repository stores all my leetcode problems solved.
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Umar-Khan08/LEETCODE/tree/master/0143-reorder-list) |
 | [0678-valid-parenthesis-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
 |  |
