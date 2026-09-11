@@ -84,6 +84,7 @@ This repository stores all my leetcode problems solved.
 | [0002-add-two-numbers](https://github.com/Umar-Khan08/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/Umar-Khan08/LEETCODE/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Umar-Khan08/LEETCODE/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Umar-Khan08/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Umar-Khan08/LEETCODE/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Umar-Khan08/LEETCODE/tree/master/0263-ugly-number) |
 | [0382-linked-list-random-node](https://github.com/Umar-Khan08/LEETCODE/tree/master/0382-linked-list-random-node) |
@@ -132,6 +133,7 @@ This repository stores all my leetcode problems solved.
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Umar-Khan08/LEETCODE/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Umar-Khan08/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0678-valid-parenthesis-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 ## Linked List
 |  |
@@ -224,4 +226,8 @@ This repository stores all my leetcode problems solved.
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/Umar-Khan08/LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Umar-Khan08/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Umar-Khan08/LEETCODE/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
