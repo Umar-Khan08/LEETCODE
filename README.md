@@ -137,6 +137,7 @@ This repository stores all my leetcode problems solved.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Umar-Khan08/LEETCODE/tree/master/0002-add-two-numbers) |
+| [0092-reverse-linked-list-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/0092-reverse-linked-list-ii) |
 | [0143-reorder-list](https://github.com/Umar-Khan08/LEETCODE/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Umar-Khan08/LEETCODE/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Umar-Khan08/LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
