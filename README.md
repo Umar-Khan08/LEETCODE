@@ -190,6 +190,7 @@ This repository stores all my leetcode problems solved.
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Umar-Khan08/LEETCODE/tree/master/0143-reorder-list) |
+| [0225-implement-stack-using-queues](https://github.com/Umar-Khan08/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0678-valid-parenthesis-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
 |  |
@@ -257,4 +258,12 @@ This repository stores all my leetcode problems solved.
 |  |
 | ------- |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Umar-Khan08/LEETCODE/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Umar-Khan08/LEETCODE/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Umar-Khan08/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
