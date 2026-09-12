@@ -22,6 +22,7 @@ This repository stores all my leetcode problems solved.
 | [0904-fruit-into-baskets](https://github.com/Umar-Khan08/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Umar-Khan08/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Umar-Khan08/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Umar-Khan08/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Umar-Khan08/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Umar-Khan08/LEETCODE/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Umar-Khan08/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -45,6 +46,7 @@ This repository stores all my leetcode problems solved.
 | [0560-subarray-sum-equals-k](https://github.com/Umar-Khan08/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Umar-Khan08/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Umar-Khan08/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Umar-Khan08/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Umar-Khan08/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Umar-Khan08/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Umar-Khan08/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -94,6 +96,7 @@ This repository stores all my leetcode problems solved.
 | [0263-ugly-number](https://github.com/Umar-Khan08/LEETCODE/tree/master/0263-ugly-number) |
 | [0382-linked-list-random-node](https://github.com/Umar-Khan08/LEETCODE/tree/master/0382-linked-list-random-node) |
 | [0441-arranging-coins](https://github.com/Umar-Khan08/LEETCODE/tree/master/0441-arranging-coins) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Umar-Khan08/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Umar-Khan08/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Umar-Khan08/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [1492-the-kth-factor-of-n](https://github.com/Umar-Khan08/LEETCODE/tree/master/1492-the-kth-factor-of-n) |
@@ -197,6 +200,7 @@ This repository stores all my leetcode problems solved.
 | [0904-fruit-into-baskets](https://github.com/Umar-Khan08/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Umar-Khan08/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Umar-Khan08/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Umar-Khan08/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Umar-Khan08/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Umar-Khan08/LEETCODE/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Prefix Sum
@@ -205,6 +209,7 @@ This repository stores all my leetcode problems solved.
 | [0560-subarray-sum-equals-k](https://github.com/Umar-Khan08/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Umar-Khan08/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Umar-Khan08/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Umar-Khan08/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Umar-Khan08/LEETCODE/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Number Theory
 |  |
