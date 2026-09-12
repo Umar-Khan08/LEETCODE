@@ -10,6 +10,7 @@ This repository stores all my leetcode problems solved.
 | [0055-jump-game](https://github.com/Umar-Khan08/LEETCODE/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Umar-Khan08/LEETCODE/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Umar-Khan08/LEETCODE/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Umar-Khan08/LEETCODE/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Umar-Khan08/LEETCODE/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Umar-Khan08/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/Umar-Khan08/LEETCODE/tree/master/0135-candy) |
@@ -119,6 +120,7 @@ This repository stores all my leetcode problems solved.
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Umar-Khan08/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Umar-Khan08/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/Umar-Khan08/LEETCODE/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Umar-Khan08/LEETCODE/tree/master/0148-sort-list) |
@@ -135,6 +137,7 @@ This repository stores all my leetcode problems solved.
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Umar-Khan08/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Umar-Khan08/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Umar-Khan08/LEETCODE/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Umar-Khan08/LEETCODE/tree/master/0217-contains-duplicate) |
@@ -144,6 +147,7 @@ This repository stores all my leetcode problems solved.
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Umar-Khan08/LEETCODE/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/Umar-Khan08/LEETCODE/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
@@ -269,4 +273,8 @@ This repository stores all my leetcode problems solved.
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Umar-Khan08/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Umar-Khan08/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Umar-Khan08/LEETCODE/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
