@@ -29,6 +29,7 @@ This repository stores all my leetcode problems solved.
 | [1920-build-array-from-permutation](https://github.com/Umar-Khan08/LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Umar-Khan08/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Umar-Khan08/LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Umar-Khan08/LEETCODE/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Umar-Khan08/LEETCODE/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Umar-Khan08/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Umar-Khan08/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -77,6 +78,7 @@ This repository stores all my leetcode problems solved.
 | [0278-first-bad-version](https://github.com/Umar-Khan08/LEETCODE/tree/master/0278-first-bad-version) |
 | [0441-arranging-coins](https://github.com/Umar-Khan08/LEETCODE/tree/master/0441-arranging-coins) |
 | [1004-max-consecutive-ones-iii](https://github.com/Umar-Khan08/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Umar-Khan08/LEETCODE/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Interactive
 |  |
 | ------- |
@@ -196,12 +198,14 @@ This repository stores all my leetcode problems solved.
 | [0930-binary-subarrays-with-sum](https://github.com/Umar-Khan08/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Umar-Khan08/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Umar-Khan08/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Umar-Khan08/LEETCODE/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Umar-Khan08/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Umar-Khan08/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Umar-Khan08/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Umar-Khan08/LEETCODE/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Number Theory
 |  |
 | ------- |
