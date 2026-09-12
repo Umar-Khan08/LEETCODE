@@ -191,6 +191,7 @@ This repository stores all my leetcode problems solved.
 | ------- |
 | [0143-reorder-list](https://github.com/Umar-Khan08/LEETCODE/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/Umar-Khan08/LEETCODE/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Umar-Khan08/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0678-valid-parenthesis-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
 |  |
@@ -262,8 +263,10 @@ This repository stores all my leetcode problems solved.
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Umar-Khan08/LEETCODE/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Umar-Khan08/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Umar-Khan08/LEETCODE/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Umar-Khan08/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
