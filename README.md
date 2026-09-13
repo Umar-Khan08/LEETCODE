@@ -185,6 +185,7 @@ This repository stores all my leetcode problems solved.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Umar-Khan08/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Umar-Khan08/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Umar-Khan08/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Umar-Khan08/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/0678-valid-parenthesis-string) |
@@ -193,6 +194,7 @@ This repository stores all my leetcode problems solved.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Umar-Khan08/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Umar-Khan08/LEETCODE/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/Umar-Khan08/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Umar-Khan08/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
@@ -200,6 +202,7 @@ This repository stores all my leetcode problems solved.
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Umar-Khan08/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 ## Counting Sort
 |  |
