@@ -98,6 +98,7 @@ This repository stores all my leetcode problems solved.
 | [0263-ugly-number](https://github.com/Umar-Khan08/LEETCODE/tree/master/0263-ugly-number) |
 | [0382-linked-list-random-node](https://github.com/Umar-Khan08/LEETCODE/tree/master/0382-linked-list-random-node) |
 | [0441-arranging-coins](https://github.com/Umar-Khan08/LEETCODE/tree/master/0441-arranging-coins) |
+| [0504-base-7](https://github.com/Umar-Khan08/LEETCODE/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Umar-Khan08/LEETCODE/tree/master/0507-perfect-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Umar-Khan08/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Umar-Khan08/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -188,6 +189,7 @@ This repository stores all my leetcode problems solved.
 | [0020-valid-parentheses](https://github.com/Umar-Khan08/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Umar-Khan08/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Umar-Khan08/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
+| [0504-base-7](https://github.com/Umar-Khan08/LEETCODE/tree/master/0504-base-7) |
 | [0678-valid-parenthesis-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Umar-Khan08/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Umar-Khan08/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
