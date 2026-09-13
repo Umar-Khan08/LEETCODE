@@ -201,6 +201,7 @@ This repository stores all my leetcode problems solved.
 | [0424-longest-repeating-character-replacement](https://github.com/Umar-Khan08/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0504-base-7](https://github.com/Umar-Khan08/LEETCODE/tree/master/0504-base-7) |
 | [0678-valid-parenthesis-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+| [1108-defanging-an-ip-address](https://github.com/Umar-Khan08/LEETCODE/tree/master/1108-defanging-an-ip-address) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Umar-Khan08/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Umar-Khan08/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2109-adding-spaces-to-a-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/2109-adding-spaces-to-a-string) |
