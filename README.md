@@ -7,6 +7,7 @@ This repository stores all my leetcode problems solved.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Umar-Khan08/LEETCODE/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Umar-Khan08/LEETCODE/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Umar-Khan08/LEETCODE/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Umar-Khan08/LEETCODE/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Umar-Khan08/LEETCODE/tree/master/0066-plus-one) |
@@ -47,6 +48,7 @@ This repository stores all my leetcode problems solved.
 | ------- |
 | [0001-two-sum](https://github.com/Umar-Khan08/LEETCODE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Umar-Khan08/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Umar-Khan08/LEETCODE/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Umar-Khan08/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0202-happy-number](https://github.com/Umar-Khan08/LEETCODE/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Umar-Khan08/LEETCODE/tree/master/0217-contains-duplicate) |
@@ -155,6 +157,7 @@ This repository stores all my leetcode problems solved.
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Umar-Khan08/LEETCODE/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Umar-Khan08/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Umar-Khan08/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Umar-Khan08/LEETCODE/tree/master/0148-sort-list) |
@@ -207,6 +210,7 @@ This repository stores all my leetcode problems solved.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Umar-Khan08/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Umar-Khan08/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Umar-Khan08/LEETCODE/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Umar-Khan08/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0389-find-the-difference](https://github.com/Umar-Khan08/LEETCODE/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Umar-Khan08/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
