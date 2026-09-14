@@ -183,12 +183,14 @@ This repository stores all my leetcode problems solved.
 | [0328-odd-even-linked-list](https://github.com/Umar-Khan08/LEETCODE/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/Umar-Khan08/LEETCODE/tree/master/0382-linked-list-random-node) |
 | [0725-split-linked-list-in-parts](https://github.com/Umar-Khan08/LEETCODE/tree/master/0725-split-linked-list-in-parts) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Umar-Khan08/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Umar-Khan08/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/Umar-Khan08/LEETCODE/tree/master/0143-reorder-list) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Umar-Khan08/LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Umar-Khan08/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Umar-Khan08/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 ## Counting
 |  |
@@ -226,6 +228,7 @@ This repository stores all my leetcode problems solved.
 | [0678-valid-parenthesis-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Umar-Khan08/LEETCODE/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Umar-Khan08/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -312,6 +315,7 @@ This repository stores all my leetcode problems solved.
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Umar-Khan08/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/0503-next-greater-element-ii) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Umar-Khan08/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
 ## Brainteaser
 |  |
 | ------- |
