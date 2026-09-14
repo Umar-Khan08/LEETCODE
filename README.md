@@ -17,6 +17,7 @@ This repository stores all my leetcode problems solved.
 | [0137-single-number-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/0137-single-number-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/Umar-Khan08/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Umar-Khan08/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Umar-Khan08/LEETCODE/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Umar-Khan08/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/0503-next-greater-element-ii) |
@@ -51,6 +52,7 @@ This repository stores all my leetcode problems solved.
 | [0217-contains-duplicate](https://github.com/Umar-Khan08/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/Umar-Khan08/LEETCODE/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Umar-Khan08/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Umar-Khan08/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Umar-Khan08/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Umar-Khan08/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Umar-Khan08/LEETCODE/tree/master/0904-fruit-into-baskets) |
