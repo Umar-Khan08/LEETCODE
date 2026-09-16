@@ -231,6 +231,7 @@ This repository stores all my leetcode problems solved.
 | [1903-largest-odd-number-in-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Umar-Khan08/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2109-adding-spaces-to-a-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/2109-adding-spaces-to-a-string) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
