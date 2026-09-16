@@ -111,6 +111,7 @@ This repository stores all my leetcode problems solved.
 | [0066-plus-one](https://github.com/Umar-Khan08/LEETCODE/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Umar-Khan08/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Umar-Khan08/LEETCODE/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/Umar-Khan08/LEETCODE/tree/master/0224-basic-calculator) |
 | [0263-ugly-number](https://github.com/Umar-Khan08/LEETCODE/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Umar-Khan08/LEETCODE/tree/master/0292-nim-game) |
 | [0382-linked-list-random-node](https://github.com/Umar-Khan08/LEETCODE/tree/master/0382-linked-list-random-node) |
@@ -195,6 +196,7 @@ This repository stores all my leetcode problems solved.
 | ------- |
 | [0002-add-two-numbers](https://github.com/Umar-Khan08/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/Umar-Khan08/LEETCODE/tree/master/0143-reorder-list) |
+| [0224-basic-calculator](https://github.com/Umar-Khan08/LEETCODE/tree/master/0224-basic-calculator) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Umar-Khan08/LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Umar-Khan08/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Umar-Khan08/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
@@ -214,6 +216,7 @@ This repository stores all my leetcode problems solved.
 | [0049-group-anagrams](https://github.com/Umar-Khan08/LEETCODE/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Umar-Khan08/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
+| [0224-basic-calculator](https://github.com/Umar-Khan08/LEETCODE/tree/master/0224-basic-calculator) |
 | [0389-find-the-difference](https://github.com/Umar-Khan08/LEETCODE/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Umar-Khan08/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0504-base-7](https://github.com/Umar-Khan08/LEETCODE/tree/master/0504-base-7) |
@@ -229,6 +232,7 @@ This repository stores all my leetcode problems solved.
 | ------- |
 | [0020-valid-parentheses](https://github.com/Umar-Khan08/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Umar-Khan08/LEETCODE/tree/master/0143-reorder-list) |
+| [0224-basic-calculator](https://github.com/Umar-Khan08/LEETCODE/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/Umar-Khan08/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Umar-Khan08/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Umar-Khan08/LEETCODE/tree/master/0496-next-greater-element-i) |
