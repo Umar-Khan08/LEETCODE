@@ -40,6 +40,7 @@ This repository stores all my leetcode problems solved.
 | [1920-build-array-from-permutation](https://github.com/Umar-Khan08/LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Umar-Khan08/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Umar-Khan08/LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
+| [2104-sum-of-subarray-ranges](https://github.com/Umar-Khan08/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
 | [2109-adding-spaces-to-a-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/2109-adding-spaces-to-a-string) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Umar-Khan08/LEETCODE/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Umar-Khan08/LEETCODE/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -264,6 +265,7 @@ This repository stores all my leetcode problems solved.
 | [0735-asteroid-collision](https://github.com/Umar-Khan08/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Umar-Khan08/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Umar-Khan08/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/Umar-Khan08/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
 | [2390-removing-stars-from-a-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Umar-Khan08/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bracket Sequences
@@ -356,6 +358,7 @@ This repository stores all my leetcode problems solved.
 | [0503-next-greater-element-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Umar-Khan08/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Umar-Khan08/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/Umar-Khan08/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Umar-Khan08/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
 ## Brainteaser
 |  |
