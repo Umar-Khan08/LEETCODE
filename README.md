@@ -242,6 +242,7 @@ This repository stores all my leetcode problems solved.
 | [0424-longest-repeating-character-replacement](https://github.com/Umar-Khan08/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/0434-number-of-segments-in-a-string) |
 | [0504-base-7](https://github.com/Umar-Khan08/LEETCODE/tree/master/0504-base-7) |
+| [0520-detect-capital](https://github.com/Umar-Khan08/LEETCODE/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/Umar-Khan08/LEETCODE/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1108-defanging-an-ip-address](https://github.com/Umar-Khan08/LEETCODE/tree/master/1108-defanging-an-ip-address) |
