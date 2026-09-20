@@ -104,6 +104,7 @@ This repository stores all my leetcode problems solved.
 | [2109-adding-spaces-to-a-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 | [2679-sum-in-a-matrix](https://github.com/Umar-Khan08/LEETCODE/tree/master/2679-sum-in-a-matrix) |
+| [3498-reverse-degree-of-a-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -262,6 +263,7 @@ This repository stores all my leetcode problems solved.
 | [2109-adding-spaces-to-a-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/2109-adding-spaces-to-a-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
