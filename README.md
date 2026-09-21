@@ -67,6 +67,7 @@ This repository stores all my leetcode problems solved.
 | [0424-longest-repeating-character-replacement](https://github.com/Umar-Khan08/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Umar-Khan08/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Umar-Khan08/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [0460-lfu-cache](https://github.com/Umar-Khan08/LEETCODE/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Umar-Khan08/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Umar-Khan08/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/Umar-Khan08/LEETCODE/tree/master/0771-jewels-and-stones) |
@@ -216,6 +217,7 @@ This repository stores all my leetcode problems solved.
 | [0237-delete-node-in-a-linked-list](https://github.com/Umar-Khan08/LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Umar-Khan08/LEETCODE/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/Umar-Khan08/LEETCODE/tree/master/0382-linked-list-random-node) |
+| [0460-lfu-cache](https://github.com/Umar-Khan08/LEETCODE/tree/master/0460-lfu-cache) |
 | [0725-split-linked-list-in-parts](https://github.com/Umar-Khan08/LEETCODE/tree/master/0725-split-linked-list-in-parts) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Umar-Khan08/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
@@ -365,6 +367,7 @@ This repository stores all my leetcode problems solved.
 | [0155-min-stack](https://github.com/Umar-Khan08/LEETCODE/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Umar-Khan08/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Umar-Khan08/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/Umar-Khan08/LEETCODE/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/Umar-Khan08/LEETCODE/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
@@ -444,4 +447,5 @@ This repository stores all my leetcode problems solved.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Umar-Khan08/LEETCODE/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Umar-Khan08/LEETCODE/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
