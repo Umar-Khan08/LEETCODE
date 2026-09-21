@@ -18,6 +18,7 @@ This repository stores all my leetcode problems solved.
 | [0137-single-number-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/0137-single-number-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/Umar-Khan08/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0239-sliding-window-maximum](https://github.com/Umar-Khan08/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Umar-Khan08/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Umar-Khan08/LEETCODE/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Umar-Khan08/LEETCODE/tree/master/0496-next-greater-element-i) |
@@ -298,6 +299,7 @@ This repository stores all my leetcode problems solved.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Umar-Khan08/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Umar-Khan08/LEETCODE/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/Umar-Khan08/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Umar-Khan08/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Umar-Khan08/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Umar-Khan08/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
@@ -364,6 +366,7 @@ This repository stores all my leetcode problems solved.
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Umar-Khan08/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Umar-Khan08/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/Umar-Khan08/LEETCODE/tree/master/0239-sliding-window-maximum) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -403,6 +406,7 @@ This repository stores all my leetcode problems solved.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Umar-Khan08/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/Umar-Khan08/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Umar-Khan08/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [2679-sum-in-a-matrix](https://github.com/Umar-Khan08/LEETCODE/tree/master/2679-sum-in-a-matrix) |
 ## Tournament Sort
@@ -421,4 +425,12 @@ This repository stores all my leetcode problems solved.
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Umar-Khan08/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Umar-Khan08/LEETCODE/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Umar-Khan08/LEETCODE/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
