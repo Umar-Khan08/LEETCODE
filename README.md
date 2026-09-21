@@ -60,6 +60,7 @@ This repository stores all my leetcode problems solved.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Umar-Khan08/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Umar-Khan08/LEETCODE/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Umar-Khan08/LEETCODE/tree/master/0076-minimum-window-substring) |
+| [0146-lru-cache](https://github.com/Umar-Khan08/LEETCODE/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/Umar-Khan08/LEETCODE/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Umar-Khan08/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/Umar-Khan08/LEETCODE/tree/master/0389-find-the-difference) |
@@ -210,6 +211,7 @@ This repository stores all my leetcode problems solved.
 | [0023-merge-k-sorted-lists](https://github.com/Umar-Khan08/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/0092-reverse-linked-list-ii) |
 | [0143-reorder-list](https://github.com/Umar-Khan08/LEETCODE/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/Umar-Khan08/LEETCODE/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Umar-Khan08/LEETCODE/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Umar-Khan08/LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Umar-Khan08/LEETCODE/tree/master/0328-odd-even-linked-list) |
@@ -359,6 +361,7 @@ This repository stores all my leetcode problems solved.
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Umar-Khan08/LEETCODE/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Umar-Khan08/LEETCODE/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Umar-Khan08/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Umar-Khan08/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
@@ -437,4 +440,8 @@ This repository stores all my leetcode problems solved.
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Umar-Khan08/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/Umar-Khan08/LEETCODE/tree/master/0239-sliding-window-maximum) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Umar-Khan08/LEETCODE/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
