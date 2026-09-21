@@ -101,6 +101,7 @@ This repository stores all my leetcode problems solved.
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Umar-Khan08/LEETCODE/tree/master/0043-multiply-strings) |
 | [0657-robot-return-to-origin](https://github.com/Umar-Khan08/LEETCODE/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/Umar-Khan08/LEETCODE/tree/master/0735-asteroid-collision) |
 | [1920-build-array-from-permutation](https://github.com/Umar-Khan08/LEETCODE/tree/master/1920-build-array-from-permutation) |
@@ -127,6 +128,7 @@ This repository stores all my leetcode problems solved.
 | ------- |
 | [0002-add-two-numbers](https://github.com/Umar-Khan08/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/Umar-Khan08/LEETCODE/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Umar-Khan08/LEETCODE/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Umar-Khan08/LEETCODE/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Umar-Khan08/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Umar-Khan08/LEETCODE/tree/master/0202-happy-number) |
@@ -246,6 +248,7 @@ This repository stores all my leetcode problems solved.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Umar-Khan08/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Umar-Khan08/LEETCODE/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Umar-Khan08/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/Umar-Khan08/LEETCODE/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Umar-Khan08/LEETCODE/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Umar-Khan08/LEETCODE/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Umar-Khan08/LEETCODE/tree/master/0076-minimum-window-substring) |
