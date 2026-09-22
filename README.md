@@ -48,6 +48,7 @@ This repository stores all my leetcode problems solved.
 | [2109-adding-spaces-to-a-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/2109-adding-spaces-to-a-string) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Umar-Khan08/LEETCODE/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Umar-Khan08/LEETCODE/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Umar-Khan08/LEETCODE/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2679-sum-in-a-matrix](https://github.com/Umar-Khan08/LEETCODE/tree/master/2679-sum-in-a-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/Umar-Khan08/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Umar-Khan08/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
@@ -151,6 +152,7 @@ This repository stores all my leetcode problems solved.
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Umar-Khan08/LEETCODE/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/Umar-Khan08/LEETCODE/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Umar-Khan08/LEETCODE/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Umar-Khan08/LEETCODE/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/Umar-Khan08/LEETCODE/tree/master/2544-alternating-digit-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/Umar-Khan08/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Umar-Khan08/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
