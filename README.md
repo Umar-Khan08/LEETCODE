@@ -20,6 +20,7 @@ This repository stores all my leetcode problems solved.
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/Umar-Khan08/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Umar-Khan08/LEETCODE/tree/master/0239-sliding-window-maximum) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Umar-Khan08/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Umar-Khan08/LEETCODE/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Umar-Khan08/LEETCODE/tree/master/0496-next-greater-element-i) |
@@ -65,6 +66,7 @@ This repository stores all my leetcode problems solved.
 | [0202-happy-number](https://github.com/Umar-Khan08/LEETCODE/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Umar-Khan08/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Umar-Khan08/LEETCODE/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Umar-Khan08/LEETCODE/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Umar-Khan08/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Umar-Khan08/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -117,6 +119,7 @@ This repository stores all my leetcode problems solved.
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0278-first-bad-version](https://github.com/Umar-Khan08/LEETCODE/tree/master/0278-first-bad-version) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/Umar-Khan08/LEETCODE/tree/master/0441-arranging-coins) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Umar-Khan08/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/Umar-Khan08/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
@@ -174,6 +177,7 @@ This repository stores all my leetcode problems solved.
 | [0148-sort-list](https://github.com/Umar-Khan08/LEETCODE/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Umar-Khan08/LEETCODE/tree/master/0202-happy-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Umar-Khan08/LEETCODE/tree/master/0455-assign-cookies) |
 | [2109-adding-spaces-to-a-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/2109-adding-spaces-to-a-string) |
 ## Greedy
@@ -195,6 +199,7 @@ This repository stores all my leetcode problems solved.
 | [0148-sort-list](https://github.com/Umar-Khan08/LEETCODE/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Umar-Khan08/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Umar-Khan08/LEETCODE/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Umar-Khan08/LEETCODE/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Umar-Khan08/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Umar-Khan08/LEETCODE/tree/master/0455-assign-cookies) |
