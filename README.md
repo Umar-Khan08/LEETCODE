@@ -275,6 +275,7 @@ This repository stores all my leetcode problems solved.
 | [1108-defanging-an-ip-address](https://github.com/Umar-Khan08/LEETCODE/tree/master/1108-defanging-an-ip-address) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Umar-Khan08/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1408-string-matching-in-an-array](https://github.com/Umar-Khan08/LEETCODE/tree/master/1408-string-matching-in-an-array) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Umar-Khan08/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1816-truncate-sentence](https://github.com/Umar-Khan08/LEETCODE/tree/master/1816-truncate-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Umar-Khan08/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -303,6 +304,7 @@ This repository stores all my leetcode problems solved.
 | [0739-daily-temperatures](https://github.com/Umar-Khan08/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Umar-Khan08/LEETCODE/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Umar-Khan08/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Umar-Khan08/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/Umar-Khan08/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
 | [2390-removing-stars-from-a-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Umar-Khan08/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
@@ -311,6 +313,7 @@ This repository stores all my leetcode problems solved.
 | ------- |
 | [0020-valid-parentheses](https://github.com/Umar-Khan08/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Umar-Khan08/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Counting Sort
 |  |
 | ------- |
