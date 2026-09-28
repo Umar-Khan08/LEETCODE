@@ -41,6 +41,7 @@ This repository stores all my leetcode problems solved.
 | [1394-find-lucky-integer-in-an-array](https://github.com/Umar-Khan08/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1408-string-matching-in-an-array](https://github.com/Umar-Khan08/LEETCODE/tree/master/1408-string-matching-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Umar-Khan08/LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1472-design-browser-history](https://github.com/Umar-Khan08/LEETCODE/tree/master/1472-design-browser-history) |
 | [1816-truncate-sentence](https://github.com/Umar-Khan08/LEETCODE/tree/master/1816-truncate-sentence) |
 | [1920-build-array-from-permutation](https://github.com/Umar-Khan08/LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Umar-Khan08/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -233,6 +234,7 @@ This repository stores all my leetcode problems solved.
 | [0382-linked-list-random-node](https://github.com/Umar-Khan08/LEETCODE/tree/master/0382-linked-list-random-node) |
 | [0460-lfu-cache](https://github.com/Umar-Khan08/LEETCODE/tree/master/0460-lfu-cache) |
 | [0725-split-linked-list-in-parts](https://github.com/Umar-Khan08/LEETCODE/tree/master/0725-split-linked-list-in-parts) |
+| [1472-design-browser-history](https://github.com/Umar-Khan08/LEETCODE/tree/master/1472-design-browser-history) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Umar-Khan08/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
@@ -310,6 +312,7 @@ This repository stores all my leetcode problems solved.
 | [0739-daily-temperatures](https://github.com/Umar-Khan08/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Umar-Khan08/LEETCODE/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Umar-Khan08/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
+| [1472-design-browser-history](https://github.com/Umar-Khan08/LEETCODE/tree/master/1472-design-browser-history) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Umar-Khan08/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/Umar-Khan08/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
 | [2390-removing-stars-from-a-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
@@ -394,6 +397,7 @@ This repository stores all my leetcode problems solved.
 | [0232-implement-queue-using-stacks](https://github.com/Umar-Khan08/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0460-lfu-cache](https://github.com/Umar-Khan08/LEETCODE/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/Umar-Khan08/LEETCODE/tree/master/0901-online-stock-span) |
+| [1472-design-browser-history](https://github.com/Umar-Khan08/LEETCODE/tree/master/1472-design-browser-history) |
 ## Queue
 |  |
 | ------- |
@@ -455,6 +459,7 @@ This repository stores all my leetcode problems solved.
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Umar-Khan08/LEETCODE/tree/master/0901-online-stock-span) |
+| [1472-design-browser-history](https://github.com/Umar-Khan08/LEETCODE/tree/master/1472-design-browser-history) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -473,6 +478,7 @@ This repository stores all my leetcode problems solved.
 | ------- |
 | [0146-lru-cache](https://github.com/Umar-Khan08/LEETCODE/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/Umar-Khan08/LEETCODE/tree/master/0460-lfu-cache) |
+| [1472-design-browser-history](https://github.com/Umar-Khan08/LEETCODE/tree/master/1472-design-browser-history) |
 ## Tree
 |  |
 | ------- |
