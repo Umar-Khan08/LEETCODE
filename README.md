@@ -43,6 +43,7 @@ This repository stores all my leetcode problems solved.
 | [1408-string-matching-in-an-array](https://github.com/Umar-Khan08/LEETCODE/tree/master/1408-string-matching-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Umar-Khan08/LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1472-design-browser-history](https://github.com/Umar-Khan08/LEETCODE/tree/master/1472-design-browser-history) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Umar-Khan08/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1816-truncate-sentence](https://github.com/Umar-Khan08/LEETCODE/tree/master/1816-truncate-sentence) |
 | [1920-build-array-from-permutation](https://github.com/Umar-Khan08/LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Umar-Khan08/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -111,6 +112,7 @@ This repository stores all my leetcode problems solved.
 | [0043-multiply-strings](https://github.com/Umar-Khan08/LEETCODE/tree/master/0043-multiply-strings) |
 | [0657-robot-return-to-origin](https://github.com/Umar-Khan08/LEETCODE/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/Umar-Khan08/LEETCODE/tree/master/0735-asteroid-collision) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Umar-Khan08/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/Umar-Khan08/LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Umar-Khan08/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2109-adding-spaces-to-a-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/2109-adding-spaces-to-a-string) |
@@ -318,6 +320,7 @@ This repository stores all my leetcode problems solved.
 | [0907-sum-of-subarray-minimums](https://github.com/Umar-Khan08/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
 | [1472-design-browser-history](https://github.com/Umar-Khan08/LEETCODE/tree/master/1472-design-browser-history) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Umar-Khan08/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Umar-Khan08/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2104-sum-of-subarray-ranges](https://github.com/Umar-Khan08/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
 | [2390-removing-stars-from-a-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Umar-Khan08/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
@@ -408,6 +411,7 @@ This repository stores all my leetcode problems solved.
 | [0225-implement-stack-using-queues](https://github.com/Umar-Khan08/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Umar-Khan08/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Umar-Khan08/LEETCODE/tree/master/0239-sliding-window-maximum) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Umar-Khan08/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Bubble Sort
 |  |
 | ------- |
