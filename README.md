@@ -37,6 +37,7 @@ This repository stores all my leetcode problems solved.
 | [1004-max-consecutive-ones-iii](https://github.com/Umar-Khan08/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Umar-Khan08/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Umar-Khan08/LEETCODE/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Umar-Khan08/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Umar-Khan08/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Umar-Khan08/LEETCODE/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Umar-Khan08/LEETCODE/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -128,6 +129,7 @@ This repository stores all my leetcode problems solved.
 | [0441-arranging-coins](https://github.com/Umar-Khan08/LEETCODE/tree/master/0441-arranging-coins) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Umar-Khan08/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/Umar-Khan08/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Umar-Khan08/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Umar-Khan08/LEETCODE/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Interactive
 |  |
@@ -259,6 +261,7 @@ This repository stores all my leetcode problems solved.
 ## Matrix
 |  |
 | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Umar-Khan08/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Umar-Khan08/LEETCODE/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [2679-sum-in-a-matrix](https://github.com/Umar-Khan08/LEETCODE/tree/master/2679-sum-in-a-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/Umar-Khan08/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
