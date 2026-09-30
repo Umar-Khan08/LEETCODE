@@ -7,6 +7,7 @@ This repository stores all my leetcode problems solved.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Umar-Khan08/LEETCODE/tree/master/0001-two-sum) |
+| [0046-permutations](https://github.com/Umar-Khan08/LEETCODE/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Umar-Khan08/LEETCODE/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Umar-Khan08/LEETCODE/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Umar-Khan08/LEETCODE/tree/master/0057-insert-interval) |
@@ -174,6 +175,7 @@ This repository stores all my leetcode problems solved.
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Umar-Khan08/LEETCODE/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Umar-Khan08/LEETCODE/tree/master/0078-subsets) |
 ## Two Pointers
 |  |
