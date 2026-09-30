@@ -149,6 +149,7 @@ This repository stores all my leetcode problems solved.
 | [0224-basic-calculator](https://github.com/Umar-Khan08/LEETCODE/tree/master/0224-basic-calculator) |
 | [0263-ugly-number](https://github.com/Umar-Khan08/LEETCODE/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Umar-Khan08/LEETCODE/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/Umar-Khan08/LEETCODE/tree/master/0319-bulb-switcher) |
 | [0382-linked-list-random-node](https://github.com/Umar-Khan08/LEETCODE/tree/master/0382-linked-list-random-node) |
 | [0441-arranging-coins](https://github.com/Umar-Khan08/LEETCODE/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/Umar-Khan08/LEETCODE/tree/master/0504-base-7) |
@@ -440,6 +441,7 @@ This repository stores all my leetcode problems solved.
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Umar-Khan08/LEETCODE/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/Umar-Khan08/LEETCODE/tree/master/0319-bulb-switcher) |
 ## Minimax
 |  |
 | ------- |
