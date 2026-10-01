@@ -49,6 +49,7 @@ This repository stores all my leetcode problems solved.
 | [1816-truncate-sentence](https://github.com/Umar-Khan08/LEETCODE/tree/master/1816-truncate-sentence) |
 | [1920-build-array-from-permutation](https://github.com/Umar-Khan08/LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Umar-Khan08/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Umar-Khan08/LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Umar-Khan08/LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
 | [2104-sum-of-subarray-ranges](https://github.com/Umar-Khan08/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
 | [2109-adding-spaces-to-a-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/2109-adding-spaces-to-a-string) |
@@ -118,6 +119,7 @@ This repository stores all my leetcode problems solved.
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Umar-Khan08/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/Umar-Khan08/LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Umar-Khan08/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Umar-Khan08/LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
 | [2109-adding-spaces-to-a-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 | [2679-sum-in-a-matrix](https://github.com/Umar-Khan08/LEETCODE/tree/master/2679-sum-in-a-matrix) |
@@ -423,6 +425,7 @@ This repository stores all my leetcode problems solved.
 | [0232-implement-queue-using-stacks](https://github.com/Umar-Khan08/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Umar-Khan08/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Umar-Khan08/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Umar-Khan08/LEETCODE/tree/master/2073-time-needed-to-buy-tickets) |
 ## Bubble Sort
 |  |
 | ------- |
