@@ -20,6 +20,7 @@ This repository stores all my leetcode problems solved.
 | [0135-candy](https://github.com/Umar-Khan08/LEETCODE/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/0137-single-number-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Umar-Khan08/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Umar-Khan08/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Umar-Khan08/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -128,6 +129,7 @@ This repository stores all my leetcode problems solved.
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Umar-Khan08/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/Umar-Khan08/LEETCODE/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/Umar-Khan08/LEETCODE/tree/master/0441-arranging-coins) |
@@ -192,6 +194,7 @@ This repository stores all my leetcode problems solved.
 | [0143-reorder-list](https://github.com/Umar-Khan08/LEETCODE/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Umar-Khan08/LEETCODE/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Umar-Khan08/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Umar-Khan08/LEETCODE/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Umar-Khan08/LEETCODE/tree/master/0455-assign-cookies) |
