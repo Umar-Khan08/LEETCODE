@@ -93,6 +93,7 @@ This repository stores all my leetcode problems solved.
 | [2965-find-missing-and-repeated-values](https://github.com/Umar-Khan08/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Umar-Khan08/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Umar-Khan08/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3941-password-strength](https://github.com/Umar-Khan08/LEETCODE/tree/master/3941-password-strength) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -317,6 +318,7 @@ This repository stores all my leetcode problems solved.
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
+| [3941-password-strength](https://github.com/Umar-Khan08/LEETCODE/tree/master/3941-password-strength) |
 ## Stack
 |  |
 | ------- |
