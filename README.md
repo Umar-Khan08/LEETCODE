@@ -174,6 +174,7 @@ This repository stores all my leetcode problems solved.
 | [1486-xor-operation-in-an-array](https://github.com/Umar-Khan08/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [1492-the-kth-factor-of-n](https://github.com/Umar-Khan08/LEETCODE/tree/master/1492-the-kth-factor-of-n) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Umar-Khan08/LEETCODE/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/Umar-Khan08/LEETCODE/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1903-largest-odd-number-in-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Umar-Khan08/LEETCODE/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2413-smallest-even-multiple](https://github.com/Umar-Khan08/LEETCODE/tree/master/2413-smallest-even-multiple) |
