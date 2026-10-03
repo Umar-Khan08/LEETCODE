@@ -29,6 +29,7 @@ This repository stores all my leetcode problems solved.
 | [0496-next-greater-element-i](https://github.com/Umar-Khan08/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Umar-Khan08/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/Umar-Khan08/LEETCODE/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Umar-Khan08/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Umar-Khan08/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Umar-Khan08/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -118,6 +119,7 @@ This repository stores all my leetcode problems solved.
 | ------- |
 | [0043-multiply-strings](https://github.com/Umar-Khan08/LEETCODE/tree/master/0043-multiply-strings) |
 | [0657-robot-return-to-origin](https://github.com/Umar-Khan08/LEETCODE/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/Umar-Khan08/LEETCODE/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Umar-Khan08/LEETCODE/tree/master/0735-asteroid-collision) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Umar-Khan08/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/Umar-Khan08/LEETCODE/tree/master/1920-build-array-from-permutation) |
@@ -339,6 +341,7 @@ This repository stores all my leetcode problems solved.
 | [0496-next-greater-element-i](https://github.com/Umar-Khan08/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/Umar-Khan08/LEETCODE/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Umar-Khan08/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Umar-Khan08/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Umar-Khan08/LEETCODE/tree/master/0901-online-stock-span) |
