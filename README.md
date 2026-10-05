@@ -194,6 +194,7 @@ This repository stores all my leetcode problems solved.
 | [0022-generate-parentheses](https://github.com/Umar-Khan08/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Umar-Khan08/LEETCODE/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Umar-Khan08/LEETCODE/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/Umar-Khan08/LEETCODE/tree/master/0257-binary-tree-paths) |
 ## Two Pointers
 |  |
 | ------- |
@@ -305,6 +306,7 @@ This repository stores all my leetcode problems solved.
 | [0151-reverse-words-in-a-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/Umar-Khan08/LEETCODE/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Umar-Khan08/LEETCODE/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Umar-Khan08/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0389-find-the-difference](https://github.com/Umar-Khan08/LEETCODE/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/Umar-Khan08/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Umar-Khan08/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
@@ -541,6 +543,7 @@ This repository stores all my leetcode problems solved.
 | [0124-binary-tree-maximum-path-sum](https://github.com/Umar-Khan08/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Umar-Khan08/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Umar-Khan08/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Umar-Khan08/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Umar-Khan08/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Umar-Khan08/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
@@ -555,6 +558,7 @@ This repository stores all my leetcode problems solved.
 | [0124-binary-tree-maximum-path-sum](https://github.com/Umar-Khan08/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Umar-Khan08/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Umar-Khan08/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Umar-Khan08/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Umar-Khan08/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Umar-Khan08/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
@@ -571,6 +575,7 @@ This repository stores all my leetcode problems solved.
 | [0124-binary-tree-maximum-path-sum](https://github.com/Umar-Khan08/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Umar-Khan08/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Umar-Khan08/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Umar-Khan08/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Umar-Khan08/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Umar-Khan08/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
