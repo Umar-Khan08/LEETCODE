@@ -112,6 +112,7 @@ This repository stores all my leetcode problems solved.
 | [0078-subsets](https://github.com/Umar-Khan08/LEETCODE/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Umar-Khan08/LEETCODE/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/Umar-Khan08/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0371-sum-of-two-integers](https://github.com/Umar-Khan08/LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Umar-Khan08/LEETCODE/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Umar-Khan08/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -139,6 +140,7 @@ This repository stores all my leetcode problems solved.
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Umar-Khan08/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/Umar-Khan08/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/Umar-Khan08/LEETCODE/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/Umar-Khan08/LEETCODE/tree/master/0441-arranging-coins) |
@@ -551,6 +553,7 @@ This repository stores all my leetcode problems solved.
 | [0124-binary-tree-maximum-path-sum](https://github.com/Umar-Khan08/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Umar-Khan08/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Umar-Khan08/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Umar-Khan08/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Umar-Khan08/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Umar-Khan08/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Umar-Khan08/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
@@ -589,6 +592,7 @@ This repository stores all my leetcode problems solved.
 | [0124-binary-tree-maximum-path-sum](https://github.com/Umar-Khan08/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Umar-Khan08/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Umar-Khan08/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Umar-Khan08/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Umar-Khan08/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Umar-Khan08/LEETCODE/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Umar-Khan08/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
