@@ -17,6 +17,7 @@ This repository stores all my leetcode problems solved.
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Umar-Khan08/LEETCODE/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Umar-Khan08/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Umar-Khan08/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0135-candy](https://github.com/Umar-Khan08/LEETCODE/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/0137-single-number-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -72,6 +73,7 @@ This repository stores all my leetcode problems solved.
 | [0012-integer-to-roman](https://github.com/Umar-Khan08/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Umar-Khan08/LEETCODE/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Umar-Khan08/LEETCODE/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Umar-Khan08/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0146-lru-cache](https://github.com/Umar-Khan08/LEETCODE/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/Umar-Khan08/LEETCODE/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Umar-Khan08/LEETCODE/tree/master/0217-contains-duplicate) |
@@ -103,6 +105,7 @@ This repository stores all my leetcode problems solved.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Umar-Khan08/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Umar-Khan08/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/Umar-Khan08/LEETCODE/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/Umar-Khan08/LEETCODE/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
@@ -554,6 +557,7 @@ This repository stores all my leetcode problems solved.
 | [0102-binary-tree-level-order-traversal](https://github.com/Umar-Khan08/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Umar-Khan08/LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Umar-Khan08/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Umar-Khan08/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Umar-Khan08/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Umar-Khan08/LEETCODE/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/0113-path-sum-ii) |
@@ -599,6 +603,7 @@ This repository stores all my leetcode problems solved.
 | [0102-binary-tree-level-order-traversal](https://github.com/Umar-Khan08/LEETCODE/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Umar-Khan08/LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Umar-Khan08/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Umar-Khan08/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Umar-Khan08/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Umar-Khan08/LEETCODE/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/0113-path-sum-ii) |
