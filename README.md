@@ -8,6 +8,7 @@ This repository stores all my leetcode problems solved.
 | ------- |
 | [0001-two-sum](https://github.com/Umar-Khan08/LEETCODE/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/Umar-Khan08/LEETCODE/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Umar-Khan08/LEETCODE/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Umar-Khan08/LEETCODE/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Umar-Khan08/LEETCODE/tree/master/0057-insert-interval) |
@@ -205,6 +206,7 @@ This repository stores all my leetcode problems solved.
 | ------- |
 | [0022-generate-parentheses](https://github.com/Umar-Khan08/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Umar-Khan08/LEETCODE/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Umar-Khan08/LEETCODE/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Umar-Khan08/LEETCODE/tree/master/0257-binary-tree-paths) |
@@ -237,6 +239,7 @@ This repository stores all my leetcode problems solved.
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Umar-Khan08/LEETCODE/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Umar-Khan08/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Umar-Khan08/LEETCODE/tree/master/0088-merge-sorted-array) |
