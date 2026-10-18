@@ -10,6 +10,7 @@ This repository stores all my leetcode problems solved.
 | [0046-permutations](https://github.com/Umar-Khan08/LEETCODE/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Umar-Khan08/LEETCODE/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Umar-Khan08/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Umar-Khan08/LEETCODE/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Umar-Khan08/LEETCODE/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Umar-Khan08/LEETCODE/tree/master/0066-plus-one) |
@@ -112,6 +113,7 @@ This repository stores all my leetcode problems solved.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Umar-Khan08/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Umar-Khan08/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Umar-Khan08/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Umar-Khan08/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/Umar-Khan08/LEETCODE/tree/master/0148-sort-list) |
@@ -271,6 +273,7 @@ This repository stores all my leetcode problems solved.
 | ------- |
 | [0022-generate-parentheses](https://github.com/Umar-Khan08/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Umar-Khan08/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/Umar-Khan08/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Umar-Khan08/LEETCODE/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Umar-Khan08/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Umar-Khan08/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
