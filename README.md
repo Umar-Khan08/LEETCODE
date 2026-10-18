@@ -26,6 +26,7 @@ This repository stores all my leetcode problems solved.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Umar-Khan08/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Umar-Khan08/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Umar-Khan08/LEETCODE/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/Umar-Khan08/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Umar-Khan08/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Umar-Khan08/LEETCODE/tree/master/0455-assign-cookies) |
@@ -123,6 +124,7 @@ This repository stores all my leetcode problems solved.
 | [0137-single-number-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Umar-Khan08/LEETCODE/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Umar-Khan08/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/Umar-Khan08/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/Umar-Khan08/LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Umar-Khan08/LEETCODE/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Umar-Khan08/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -152,6 +154,7 @@ This repository stores all my leetcode problems solved.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Umar-Khan08/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Umar-Khan08/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/Umar-Khan08/LEETCODE/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/Umar-Khan08/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/Umar-Khan08/LEETCODE/tree/master/0441-arranging-coins) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Umar-Khan08/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -224,6 +227,7 @@ This repository stores all my leetcode problems solved.
 | [0151-reverse-words-in-a-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Umar-Khan08/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Umar-Khan08/LEETCODE/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Umar-Khan08/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Umar-Khan08/LEETCODE/tree/master/0455-assign-cookies) |
 | [2109-adding-spaces-to-a-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/2109-adding-spaces-to-a-string) |
@@ -455,6 +459,7 @@ This repository stores all my leetcode problems solved.
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Umar-Khan08/LEETCODE/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Umar-Khan08/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -688,4 +693,8 @@ This repository stores all my leetcode problems solved.
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Umar-Khan08/LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Umar-Khan08/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
