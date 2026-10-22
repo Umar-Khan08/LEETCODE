@@ -43,6 +43,7 @@ This repository stores all my leetcode problems solved.
 | [0904-fruit-into-baskets](https://github.com/Umar-Khan08/LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Umar-Khan08/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/Umar-Khan08/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
+| [0999-available-captures-for-rook](https://github.com/Umar-Khan08/LEETCODE/tree/master/0999-available-captures-for-rook) |
 | [1004-max-consecutive-ones-iii](https://github.com/Umar-Khan08/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Umar-Khan08/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Umar-Khan08/LEETCODE/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -142,6 +143,7 @@ This repository stores all my leetcode problems solved.
 | [0657-robot-return-to-origin](https://github.com/Umar-Khan08/LEETCODE/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Umar-Khan08/LEETCODE/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Umar-Khan08/LEETCODE/tree/master/0735-asteroid-collision) |
+| [0999-available-captures-for-rook](https://github.com/Umar-Khan08/LEETCODE/tree/master/0999-available-captures-for-rook) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Umar-Khan08/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/Umar-Khan08/LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Umar-Khan08/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -321,6 +323,7 @@ This repository stores all my leetcode problems solved.
 ## Matrix
 |  |
 | ------- |
+| [0999-available-captures-for-rook](https://github.com/Umar-Khan08/LEETCODE/tree/master/0999-available-captures-for-rook) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Umar-Khan08/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Umar-Khan08/LEETCODE/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Umar-Khan08/LEETCODE/tree/master/2022-convert-1d-array-into-2d-array) |
