@@ -75,6 +75,7 @@ This repository stores all my leetcode problems solved.
 | [3483-unique-3-digit-even-numbers](https://github.com/Umar-Khan08/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Umar-Khan08/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Umar-Khan08/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Umar-Khan08/LEETCODE/tree/master/3898-find-the-degree-of-each-vertex) |
 | [4020-elevator-requests-i](https://github.com/Umar-Khan08/LEETCODE/tree/master/4020-elevator-requests-i) |
 ## Hash Table
 |  |
@@ -332,6 +333,7 @@ This repository stores all my leetcode problems solved.
 | [2022-convert-1d-array-into-2d-array](https://github.com/Umar-Khan08/LEETCODE/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2679-sum-in-a-matrix](https://github.com/Umar-Khan08/LEETCODE/tree/master/2679-sum-in-a-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/Umar-Khan08/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Umar-Khan08/LEETCODE/tree/master/3898-find-the-degree-of-each-vertex) |
 ## String
 |  |
 | ------- |
@@ -722,4 +724,8 @@ This repository stores all my leetcode problems solved.
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Umar-Khan08/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Umar-Khan08/LEETCODE/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
