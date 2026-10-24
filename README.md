@@ -214,6 +214,7 @@ This repository stores all my leetcode problems solved.
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Umar-Khan08/LEETCODE/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Umar-Khan08/LEETCODE/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/Umar-Khan08/LEETCODE/tree/master/2544-alternating-digit-sum) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Umar-Khan08/LEETCODE/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/Umar-Khan08/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Umar-Khan08/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Umar-Khan08/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
