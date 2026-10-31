@@ -203,6 +203,7 @@ This repository stores all my leetcode problems solved.
 | [0507-perfect-number](https://github.com/Umar-Khan08/LEETCODE/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Umar-Khan08/LEETCODE/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Umar-Khan08/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Umar-Khan08/LEETCODE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Umar-Khan08/LEETCODE/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Umar-Khan08/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Umar-Khan08/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
@@ -311,6 +312,7 @@ This repository stores all my leetcode problems solved.
 | [0382-linked-list-random-node](https://github.com/Umar-Khan08/LEETCODE/tree/master/0382-linked-list-random-node) |
 | [0460-lfu-cache](https://github.com/Umar-Khan08/LEETCODE/tree/master/0460-lfu-cache) |
 | [0725-split-linked-list-in-parts](https://github.com/Umar-Khan08/LEETCODE/tree/master/0725-split-linked-list-in-parts) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Umar-Khan08/LEETCODE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1472-design-browser-history](https://github.com/Umar-Khan08/LEETCODE/tree/master/1472-design-browser-history) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Umar-Khan08/LEETCODE/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
