@@ -247,6 +247,7 @@ This repository stores all my leetcode problems solved.
 | [0202-happy-number](https://github.com/Umar-Khan08/LEETCODE/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Umar-Khan08/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Umar-Khan08/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0443-string-compression](https://github.com/Umar-Khan08/LEETCODE/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Umar-Khan08/LEETCODE/tree/master/0455-assign-cookies) |
 | [2109-adding-spaces-to-a-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/2109-adding-spaces-to-a-string) |
 ## Greedy
@@ -366,6 +367,7 @@ This repository stores all my leetcode problems solved.
 | [0402-remove-k-digits](https://github.com/Umar-Khan08/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Umar-Khan08/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/0434-number-of-segments-in-a-string) |
+| [0443-string-compression](https://github.com/Umar-Khan08/LEETCODE/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Umar-Khan08/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0504-base-7](https://github.com/Umar-Khan08/LEETCODE/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/Umar-Khan08/LEETCODE/tree/master/0520-detect-capital) |
