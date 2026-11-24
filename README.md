@@ -60,6 +60,7 @@ This repository stores all my leetcode problems solved.
 | [1408-string-matching-in-an-array](https://github.com/Umar-Khan08/LEETCODE/tree/master/1408-string-matching-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Umar-Khan08/LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1472-design-browser-history](https://github.com/Umar-Khan08/LEETCODE/tree/master/1472-design-browser-history) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Umar-Khan08/LEETCODE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Umar-Khan08/LEETCODE/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1748-sum-of-unique-elements](https://github.com/Umar-Khan08/LEETCODE/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/Umar-Khan08/LEETCODE/tree/master/1816-truncate-sentence) |
@@ -297,6 +298,7 @@ This repository stores all my leetcode problems solved.
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Umar-Khan08/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Umar-Khan08/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Umar-Khan08/LEETCODE/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Umar-Khan08/LEETCODE/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Umar-Khan08/LEETCODE/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Umar-Khan08/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Umar-Khan08/LEETCODE/tree/master/2094-finding-3-digit-even-numbers) |
