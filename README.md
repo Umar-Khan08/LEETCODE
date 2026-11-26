@@ -171,6 +171,7 @@ This repository stores all my leetcode problems solved.
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 | [2679-sum-in-a-matrix](https://github.com/Umar-Khan08/LEETCODE/tree/master/2679-sum-in-a-matrix) |
+| [3360-stone-removal-game](https://github.com/Umar-Khan08/LEETCODE/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 | [4020-elevator-requests-i](https://github.com/Umar-Khan08/LEETCODE/tree/master/4020-elevator-requests-i) |
 ## Binary Search
@@ -236,6 +237,7 @@ This repository stores all my leetcode problems solved.
 | [2544-alternating-digit-sum](https://github.com/Umar-Khan08/LEETCODE/tree/master/2544-alternating-digit-sum) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Umar-Khan08/LEETCODE/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/Umar-Khan08/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
+| [3360-stone-removal-game](https://github.com/Umar-Khan08/LEETCODE/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Umar-Khan08/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Umar-Khan08/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Umar-Khan08/LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
