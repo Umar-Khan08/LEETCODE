@@ -218,6 +218,7 @@ This repository stores all my leetcode problems solved.
 | [0504-base-7](https://github.com/Umar-Khan08/LEETCODE/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Umar-Khan08/LEETCODE/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Umar-Khan08/LEETCODE/tree/master/0509-fibonacci-number) |
+| [1227-airplane-seat-assignment-probability](https://github.com/Umar-Khan08/LEETCODE/tree/master/1227-airplane-seat-assignment-probability) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Umar-Khan08/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Umar-Khan08/LEETCODE/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Umar-Khan08/LEETCODE/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -325,6 +326,7 @@ This repository stores all my leetcode problems solved.
 | [0509-fibonacci-number](https://github.com/Umar-Khan08/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/Umar-Khan08/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
+| [1227-airplane-seat-assignment-probability](https://github.com/Umar-Khan08/LEETCODE/tree/master/1227-airplane-seat-assignment-probability) |
 ## Linked List
 |  |
 | ------- |
@@ -586,6 +588,7 @@ This repository stores all my leetcode problems solved.
 | ------- |
 | [0292-nim-game](https://github.com/Umar-Khan08/LEETCODE/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Umar-Khan08/LEETCODE/tree/master/0319-bulb-switcher) |
+| [1227-airplane-seat-assignment-probability](https://github.com/Umar-Khan08/LEETCODE/tree/master/1227-airplane-seat-assignment-probability) |
 | [3227-vowels-game-in-a-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/3227-vowels-game-in-a-string) |
 ## Minimax
 |  |
@@ -816,4 +819,8 @@ This repository stores all my leetcode problems solved.
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Umar-Khan08/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/Umar-Khan08/LEETCODE/tree/master/1227-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
