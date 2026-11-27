@@ -237,6 +237,7 @@ This repository stores all my leetcode problems solved.
 | [2544-alternating-digit-sum](https://github.com/Umar-Khan08/LEETCODE/tree/master/2544-alternating-digit-sum) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Umar-Khan08/LEETCODE/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/Umar-Khan08/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
+| [3227-vowels-game-in-a-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/3227-vowels-game-in-a-string) |
 | [3360-stone-removal-game](https://github.com/Umar-Khan08/LEETCODE/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Umar-Khan08/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Umar-Khan08/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -421,6 +422,7 @@ This repository stores all my leetcode problems solved.
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Umar-Khan08/LEETCODE/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2390-removing-stars-from-a-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Umar-Khan08/LEETCODE/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3227-vowels-game-in-a-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/3227-vowels-game-in-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
 | [3941-password-strength](https://github.com/Umar-Khan08/LEETCODE/tree/master/3941-password-strength) |
 ## Stack
@@ -584,6 +586,7 @@ This repository stores all my leetcode problems solved.
 | ------- |
 | [0292-nim-game](https://github.com/Umar-Khan08/LEETCODE/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Umar-Khan08/LEETCODE/tree/master/0319-bulb-switcher) |
+| [3227-vowels-game-in-a-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/3227-vowels-game-in-a-string) |
 ## Minimax
 |  |
 | ------- |
@@ -592,6 +595,7 @@ This repository stores all my leetcode problems solved.
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Umar-Khan08/LEETCODE/tree/master/0292-nim-game) |
+| [3227-vowels-game-in-a-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/3227-vowels-game-in-a-string) |
 ## Nim Game
 |  |
 | ------- |
