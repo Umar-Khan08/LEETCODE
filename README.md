@@ -83,6 +83,7 @@ This repository stores all my leetcode problems solved.
 | [2965-find-missing-and-repeated-values](https://github.com/Umar-Khan08/LEETCODE/tree/master/2965-find-missing-and-repeated-values) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Umar-Khan08/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Umar-Khan08/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Umar-Khan08/LEETCODE/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Umar-Khan08/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Umar-Khan08/LEETCODE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Umar-Khan08/LEETCODE/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -153,6 +154,7 @@ This repository stores all my leetcode problems solved.
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Umar-Khan08/LEETCODE/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Umar-Khan08/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Umar-Khan08/LEETCODE/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Umar-Khan08/LEETCODE/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Simulation
 |  |
 | ------- |
@@ -590,6 +592,7 @@ This repository stores all my leetcode problems solved.
 | [0319-bulb-switcher](https://github.com/Umar-Khan08/LEETCODE/tree/master/0319-bulb-switcher) |
 | [1227-airplane-seat-assignment-probability](https://github.com/Umar-Khan08/LEETCODE/tree/master/1227-airplane-seat-assignment-probability) |
 | [3227-vowels-game-in-a-string](https://github.com/Umar-Khan08/LEETCODE/tree/master/3227-vowels-game-in-a-string) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Umar-Khan08/LEETCODE/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Minimax
 |  |
 | ------- |
